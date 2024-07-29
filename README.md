@@ -9,7 +9,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href= "https://linkedin.com/in/javier mignolet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/linked-in-alt.svg" alt="javier mignolet" altura="30" anchura="40" /></a>
+<a href= "https://www.linkedin.com/in/javier-mignolet-66815615b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/linked-in-alt.svg" alt="javier mignolet" altura="30" anchura="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
