@@ -1,4 +1,4 @@
-<img src="https://github.com/JavierMignolet/JavierMignolet/blob/main/portada.png" target="blank" alt="portada" height="250" width="600"  style="display:block; margin-left: 30%;" />
+<img src="https://github.com/JavierMignolet/JavierMignolet/blob/main/portada.png" target="blank" alt="portada" width="1200"  style="display:block; margin-left: 30%;" />
 <h1 align="center">Hola 👋, soy Javier Mignolet</h1>
 <h3 align="center">💻 Soy un programador web con experiencia en HTML, CSS, HTML5, CSS3, JavaScript, React Native, Bootstrap y Node.js. Me especializo en el desarrollo de páginas web y aplicaciones responsivas, brindando soluciones digitales eficientes y optimizadas.
 
