@@ -33,6 +33,7 @@ Queres potenciar tu negocio, soy la solución! </strong>
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https: //linkedin.com/es/javiermignolet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javiermignolet" height="30 " width="40" /></a>
+  <a href="mailto:javiermignolet@outlook.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-outlook-4-722718.png?f=webp&w=256" alt="Corerojaviermignolet" height="40 " width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
