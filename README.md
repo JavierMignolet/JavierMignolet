@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Javier Mignolet</h1>
 <h3 align="center">💻 Soy un programador web con experiencia en HTML, CSS, HTML5, CSS3, JavaScript, React Native, Bootstrap y Node.js. Me especializo en el desarrollo de páginas web y aplicaciones responsivas, brindando soluciones digitales eficientes y optimizadas.
 
-🌾 Además, soy ingeniero agrónomo con experiencia en producción, supervisión, análisis de datos y gestión agropecuaria. Mi capacidad analítica y enfoque en la optimización de procesos me permiten aportar soluciones innovadoras tanto en el sector tecnológico como en el agrícola.
+🌾 Además, soy Ingeniero Ggrónomo con experiencia en producción, supervisión, análisis de datos y gestión agropecuaria. Mi capacidad analítica y enfoque en la optimización de procesos me permiten aportar soluciones innovadoras tanto en el sector tecnológico como en el agrícola.
 
 🎨 Cuento con habilidades en el diseño de logos, branding digital y desarrollo de aplicaciones web y móviles, combinando creatividad y tecnología para crear proyectos funcionales y atractivos.
 
